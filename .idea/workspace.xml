@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86fc41f1-bd87-402e-8f3b-4a6df609bf22" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/zyl_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/zyl_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +99,15 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -121,5 +131,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1624068988220" />
+    <state x="526" y="290" key="VCS.ChangelistChooser" timestamp="1624170044590">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="290" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1624170044590" />
   </component>
 </project>
