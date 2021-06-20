@@ -8,6 +8,7 @@ def git_test():
 def Github_test():
     return print("这是我的github测试")
 
+print("从github测试中更新")
 if __name__=="__main__":
     git_test()
     Github_test()
