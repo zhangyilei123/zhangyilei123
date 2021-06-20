@@ -5,5 +5,9 @@ def git_test():
     print("*****%s*****"%git_name)
     print("这是回滚的测试的测试")
 
+def Github_test():
+    return print("这是我的github测试")
+
 if __name__=="__main__":
     git_test()
+    Github_test()
